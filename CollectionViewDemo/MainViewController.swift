@@ -99,7 +99,7 @@ extension MainViewController: UICollectionViewDataSource, UICollectionViewDelega
         print("(\(indexPath.section),\(indexPath.row))")
     }
     
-    //#MARK: --UICollectionViewDelegateFlowLayout
+    //#MARK: --UICollectionViewDelegateFlowLayout的代理方法
     /**
      - returns: header的大小
      */

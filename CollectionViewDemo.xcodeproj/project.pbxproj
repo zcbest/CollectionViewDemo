@@ -100,11 +100,11 @@
 			isa = PBXGroup;
 			children = (
 				F0974CC81C478E5A00A727BD /* AppDelegate.swift */,
-				F0974CCA1C478E8200A727BD /* Assets.xcassets */,
+				F0974CCD1C478E8200A727BD /* MainViewController.swift */,
 				F0974CCB1C478E8200A727BD /* CollectionViewCell.swift */,
 				F0974CCC1C478E8200A727BD /* CollectionViewCell.xib */,
-				F0974CCD1C478E8200A727BD /* MainViewController.swift */,
 				F0974CA31C478E1900A727BD /* LaunchScreen.storyboard */,
+				F0974CCA1C478E8200A727BD /* Assets.xcassets */,
 				F0974CA61C478E1900A727BD /* Info.plist */,
 			);
 			path = CollectionViewDemo;
